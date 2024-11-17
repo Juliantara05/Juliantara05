@@ -1,16 +1,25 @@
-### HI BANGSAT 👎👎👎
+# Nama Proyek
 
-<!--
-**Juliantara05/Juliantara05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deskripsi singkat tentang proyek Anda, misalnya:
 
-Here are some ideas to get you started:
+> Proyek ini adalah [tujuan proyek Anda, misalnya aplikasi, alat, library] yang bertujuan untuk [penjelasan singkat tentang tujuan dan manfaatnya].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Fitur
+
+- [x] Fitur 1: bot like
+- [x] Fitur 2: bot coment
+- [x] Fitur 3: bot compitible
+---
+
+## Instalasi
+
+Ikuti langkah-langkah berikut untuk menginstal proyek ini di komputer Anda:
+
+1. Clone repository:
+   ```bash
+   https://github.com/Juliantara05/Juliantara05/main/
+   cd bot.py
+   pythone bot.py
+   
